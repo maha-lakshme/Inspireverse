@@ -1,0 +1,16 @@
+<!-- res/values-v26/styles.xml -->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Navigation bar background color -->
+        <item name="android:navigationBarColor">@android:color/white</item>
+        <!-- Request dark navigation bar icons -->
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+
+        <!-- Status bar background color (optional) -->
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Request dark status bar icons (optional) -->
+        <item name="android:windowLightStatusBar">true</item>
+
+
+    </style>
+</resources>

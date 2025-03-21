@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928451998831",
+    "project_id": "inspire-verse",
+    "storage_bucket": "inspire-verse.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928451998831:android:3e4afece69319f4120499a",
+        "android_client_info": {
+          "package_name": "com.maha.inspireverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADS-L2u2gk-Lmpg5PfgSKCLFrfPw0g-L0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

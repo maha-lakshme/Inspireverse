@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Solid color for the button background -->
+    <solid android:color="#4CAF50" /> <!-- Green background -->
+
+    <!-- Stroke for the border -->
+    <stroke android:width="2dp" android:color="#FFFFFF" /> <!-- White border -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="8dp" />
+
+    <!-- Padding inside the button -->
+    <padding android:left="16dp" android:top="8dp" android:right="16dp" android:bottom="8dp" />
+
+    <!-- Optional: Specify size if needed
+    <size android:width="64dp" android:height="36dp"/>
+    -->
+</shape>

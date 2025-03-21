@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InspireVerse</string>
+    <string name="shared_image_transition_name">shared_image</string>
+
+</resources>

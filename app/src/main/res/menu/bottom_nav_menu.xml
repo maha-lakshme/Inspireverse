@@ -1,0 +1,21 @@
+<!-- res/menu/bottom_nav_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_selector"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_theme"
+        android:icon="@drawable/ic_theme_selector"
+        android:title="" />
+
+    <item
+        android:id="@+id/navigation_storage"
+        android:icon="@drawable/ic_save_selector"
+        android:title="" />
+
+
+
+</menu>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+   <!-- <style name="Theme.InspireVerse" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        Navigation bar background color
+        <item name="android:navigationBarColor">@color/pink_300</item>
+ Status bar background color (optional)
+        <item name="android:statusBarColor">@android:color/white</item>
+        <item name="colorPrimary">@color/pink_50</item>
+      Optional: Define primary dark and accent colors
+        <item name="colorPrimaryDark">@color/pink_300</item>
+        <item name="colorAccent">@color/pink_300</item>
+        <item name="android:fontFamily">@font/montserrat_regular</item>
+    </style>-->
+
+    <style name="Theme.InspireVerse" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Remove the title bar -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- Enable full-screen mode -->
+        <item name="android:windowFullscreen">false</item>
+        <!-- Allow drawing over the system bars so custom colors will be applied -->
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="colorAccent">@color/pink_300</item>
+        <!-- Set the status bar color to dark grey -->
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <!-- Set the navigation bar color to dark grey -->
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:fontFamily">@font/courgette_regular</item>
+    </style>
+
+    <style name="Theme.InspireVerse.Splash" parent="Theme.SplashScreen">
+        <!-- Splash screen background color -->
+        <item name="windowSplashScreenBackground">@color/pink_img</item>
+        <!-- Splash screen icon -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_app_icon</item>
+        <!-- Icon animation duration -->
+        <item name="windowSplashScreenAnimationDuration">1200</item> <!-- Duration in ms -->
+        <!-- Post splash screen theme -->
+        <item name="postSplashScreenTheme">@style/Theme.InspireVerse</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowContentTransitions">true</item>
+        <item name="android:fontFamily">@font/courgette_regular</item>
+
+    </style>
+    <style name="CardViewShape" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">24dp</item>
+    </style>
+    <style name="CustomChipStyle" parent="Widget.MaterialComponents.Chip.Choice">
+        <!-- White background -->
+        <!-- Pink border -->
+
+
+        <item name="chipStartPadding">5dp</item>
+        <item name="chipCornerRadius">7dp</item>
+        <item name="chipEndPadding">5dp</item>
+        <item name="android:padding">4dp</item>
+        <item name="chipStyle">@style/CustomChipStyle</item>
+        <item name="android:textColorHighlight">@color/pink_500</item>
+        <item name="android:fontFamily">@font/tangerine_regular</item>
+    </style>
+    <style name="ChipTextAppearance.MyCustom" parent="Widget.MaterialComponents.ChipGroup">
+        <item name="android:fontFamily">@font/tangerine_regular</item>
+        <item name="android:textSize">14sp</item>
+        <!-- Add any other text-related attributes as needed -->
+    </style>
+</resources>
