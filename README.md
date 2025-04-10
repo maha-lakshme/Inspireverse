@@ -66,5 +66,19 @@ InspireVerse is organized using the Model-View-ViewModel (MVVM) pattern:
 
 - **Liked Quotes Storage:**  
   Liked quotes are stored in Firebase Database (or Firestore) under each user’s identifier. This allows users to later retrieve and review their favorite quotes.
+  
+- **Screenshots:**
+Here are some screenshots of AnimatedQuotes:
+
+<div align="center"> <img src="screenshots/screen1.png" alt="splash Screen" width="200px" /></div>
+<div align="center"> <img src="screenshots/screen2.png" alt="Home Screen" width="200px" /></div>
+<div align="center"> <img src="screenshots/screen3.png" alt="Theme Screen" width="200px" /></div>
+<div align="center"> <img src="screenshots/screen4.png" alt="Saved Screen" width="200px" /></div>
+<div align="center"> <img src="screenshots/screen5.png" alt="Home Screen" width="200px" /></div>
+- **License:**
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+- **Contact:**
+Developer: Your Name Email: maha21.kanagaraj@gmail.com GitHub: github.com/maha-lakshme
 
 
