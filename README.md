@@ -70,11 +70,11 @@ InspireVerse is organized using the Model-View-ViewModel (MVVM) pattern:
 - **Screenshots:**
 Here are some screenshots of AnimatedQuotes:
 
-<div align="center"> <img src="screenshots/screen1.png" alt="splash Screen" width="200px" /></div>
-<div align="center"> <img src="screenshots/screen2.png" alt="Home Screen" width="200px" /></div>
-<div align="center"> <img src="screenshots/screen3.png" alt="Theme Screen" width="200px" /></div>
-<div align="center"> <img src="screenshots/screen4.png" alt="Saved Screen" width="200px" /></div>
-<div align="center"> <img src="screenshots/screen5.png" alt="Home Screen" width="200px" /></div>
+<div align="center"> <img src="screenshots/screen1.png" alt="splash Screen" width="200px" />
+ <img src="screenshots/screen2.png" alt="Home Screen" width="200px" />
+ <img src="screenshots/screen3.png" alt="Theme Screen" width="200px" />
+ <img src="screenshots/screen4.png" alt="Saved Screen" width="200px" />
+ <img src="screenshots/screen5.png" alt="Home Screen" width="200px" />
 - **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
 
