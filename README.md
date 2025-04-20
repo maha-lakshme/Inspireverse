@@ -80,6 +80,6 @@ Here are some screenshots of AnimatedQuotes:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 - **Contact:**
-Developer: Your Name Email: maha21.kanagaraj@gmail.com GitHub: github.com/maha-lakshme
+Developer:Mahalaskhmi Email: maha21.kanagaraj@gmail.com GitHub: github.com/maha-lakshme
 
 
