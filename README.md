@@ -68,7 +68,7 @@ InspireVerse is organized using the Model-View-ViewModel (MVVM) pattern:
   Liked quotes are stored in Firebase Database (or Firestore) under each user’s identifier. This allows users to later retrieve and review their favorite quotes.
   
 - **Screenshots:**
-Here are some screenshots of AnimatedQuotes:
+Here are some screenshots of InspireVerse:
 
 <div align="center"> 
  <img src="screenshots/screen2.png" alt="Home Screen" width="200px" />
