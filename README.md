@@ -1,3 +1,13 @@
+- **Screenshots:**
+Here are some screenshots of InspireVerse:
+
+<div align="center"> 
+ <img src="screenshots/screen2.png" alt="Home Screen" width="200px" />
+ <img src="screenshots/screen3.png" alt="Theme Screen" width="200px" />
+ <img src="screenshots/screen4.png" alt="Saved Screen" width="200px" />
+ <img src="screenshots/screen5.png" alt="Home Screen" width="200px" /></div>
+
+
 # InspireVerse
 
 InspireVerse is an Android application designed to uplift and inspire you! The app dynamically retrieves inspirational quotes from a Quotes API and beautiful background images from the Pexels API. In addition, InspireVerse leverages Firebase to handle anonymous user authentication and to store each user’s liked quotes—ensuring your favorite inspiration is always saved.
@@ -67,14 +77,6 @@ InspireVerse is organized using the Model-View-ViewModel (MVVM) pattern:
 - **Liked Quotes Storage:**  
   Liked quotes are stored in Firebase Database (or Firestore) under each user’s identifier. This allows users to later retrieve and review their favorite quotes.
   
-- **Screenshots:**
-Here are some screenshots of InspireVerse:
-
-<div align="center"> 
- <img src="screenshots/screen2.png" alt="Home Screen" width="200px" />
- <img src="screenshots/screen3.png" alt="Theme Screen" width="200px" />
- <img src="screenshots/screen4.png" alt="Saved Screen" width="200px" />
- <img src="screenshots/screen5.png" alt="Home Screen" width="200px" /></div>
  
 - **License:**
 This project is licensed under the MIT License. See the LICENSE file for details.
