@@ -1,5 +1,3 @@
-- **Screenshots:**
-Here are some screenshots of InspireVerse:
 
 <div align="center"> 
  <img src="screenshots/screen2.png" alt="Home Screen" width="200px" />
